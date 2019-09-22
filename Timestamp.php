@@ -1,4 +1,4 @@
 <?php
-echo "the current time and date<br>";
-echo date ("M/d/Y h:i:s:u a");
+echo "the current date and time<br>";
+echo date ("M/d/Y h:i:s:a");
 ?>
