@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
+
 int main() {
-cout << "follow djcoldcrown on soundcloud";
-cout << endl << endl;
-cout << "or your mom has ligma";
-	return 0;}
+cout << "what do c++ coders get a lot of ";
+cout << endl; cout << endl ;
+cout << "cout !";
+	return 0;
+}
