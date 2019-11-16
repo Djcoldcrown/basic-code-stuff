@@ -20,13 +20,13 @@ int main() {
 	       printf("five\n");
 	       break;
 	case 6:
-		prinf("six\n");
+		printf("six\n");
 		break;
 	case 7:
 		printf("seven\n");
 		break;
 	case 8:
-		prinf("eight\n");
+		printf("eight\n");
 		break;
 	case 9:
 		printf("nine\n");
@@ -34,7 +34,7 @@ int main() {
 	case 10
 		printf("nine\n");
 		break;
-		default;
+		default:;
 			printf("this number is above ten i didnt code that yet\n");
 	      }
 return 0;}
