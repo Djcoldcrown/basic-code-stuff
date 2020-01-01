@@ -1,6 +1,9 @@
-num = int(input("Enter a number in number form >>>"))
+#asks user for input
+num = int(input())
+#displays interger input in word form
 if num == 1:
    print ("one")
+#dont touch it. it works
 elif num == 2:
    print ("two")
 elif num == 3:
@@ -19,5 +22,15 @@ elif num == 9:
    print ("nine")
 elif num == 10:
    print ("ten")
+elif num == 11:
+   print ("eleven")
+elif num == 12:
+   print ("twelve")
+elif num == 13:
+   print ("thirteen")
+elif num == 14:
+   print ("fourteen")
+elif num == 15:
+   print ("fifteen")
 else:
-   print ("please enter a number between 1 and 10")
+   print ("please enter a number between 1 and 15")
