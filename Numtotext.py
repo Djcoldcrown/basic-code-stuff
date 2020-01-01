@@ -17,7 +17,7 @@ elif num == 8:
    print ("eight")
 elif num == 9:
    print ("nine")
-eilf num == 10:
+elif num == 10:
    print ("ten")
 else:
    print ("please enter a number between 1 and 10")
