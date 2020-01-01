@@ -34,4 +34,4 @@ elif num == 15:
    print ("fifteen")
 else:
    print ("please enter a number between 1 and 15")
-#mightexpand int the future
+#i might expand in the future
