@@ -2,7 +2,9 @@
 
 int main() {
 	int num = 1;
+	//asks user for interger input
         scanf("%d", &num);
+	//displays interger as a word
 	switch (num) {
 	case 1:
 		printf("One\n");
